@@ -53,7 +53,7 @@ The objective of this project is to analyze customer churn patterns and identify
 
 ## 🖼️ Dashboard Preview
 
-![Churn Data Analysis Dashboard](Churn_Data_Analysis_Dashboard.png)
+![Churn Data Analysis Dashboard](Churn Data Analysis Dashboard.png)
 
 ## 👩‍💻 Skills Demonstrated
 
