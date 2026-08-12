@@ -197,5 +197,3 @@ This project demonstrates the ability to analyze customer data and create an int
 The dashboard provides meaningful insights that can help businesses understand why customers leave and identify areas for improving customer retention.
 
 ---
-
-This project is part of my Data Analytics portfolio and demonstrates practical skills in Power BI, DAX, Power Query, Excel, Data Visualization, and Customer Churn Analysis.
